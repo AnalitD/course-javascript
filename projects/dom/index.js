@@ -198,3 +198,5 @@ export {
   collectDOMStat,
   observeChildNodes,
 };
+
+//проверка
